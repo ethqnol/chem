@@ -7,7 +7,7 @@ import rehypeMathjax from 'rehype-mathjax';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://ethqnol.github.io',
-  base: '/chemistry',
+  base: '/',
   markdown: {
     remarkPlugins: [remarkMath],
     rehypePlugins: [rehypeMathjax],
