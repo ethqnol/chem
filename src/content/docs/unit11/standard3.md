@@ -57,3 +57,5 @@ the iron:
 $\text{Co}_{(s)} + \text{Pb}\left(\text{NO}_3\right)_{2(aq)} \to \text{Co}\left(\text{NO}_3\right)_{2(aq)} + \text{Pb}_{(s)}$
 
 $\text{Co}{(s)} + \text{Fe}\left(\text{NO}_3\right)_{2(aq)} \to \text{NR}$
+
+![The More You Know](https://cdn.theatlantic.com/thumbor/Er7vK5JSdS1voeQg05sL1C09Kmw=/80x16:1280x916/1200x900/media/img/mt/2014/09/The_More_You_Know/original.png)
