@@ -13,7 +13,9 @@ Ionic equations are those where the formulas of the dissolved aqueous solutions
 
 So, for some silver bromide dissolved in water, it'd be:
 
+<center>
 $\text{Ag}^{1+}_{(aq)} + \text{Br}^{1-}_{(aq)}$
+</center>
 
 With the *molecular equation*:
 
@@ -28,7 +30,7 @@ get the following 4 ions:
 
 $\text{Ag}^{1+}_{(aq)} + \text{NO}_{3(aq)}^{1-} + \text{Na}_{(aq)}^{1+} + \text{Br}_{(aq)}^{1-}$
 
-Imagine this reacts to form some kinda *crust*, e.g. $AgBr_{(s)}$. The *full
+Imagine this reacts to form some kinda *crust*, e.g. $\text{AgBr_{(s)}}$. The *full
 ionic equation*'d look like this:
 
 $\text{Ag}^{1+}_{(aq)} + \text{NO}_{3(aq)}^{1-} + \text{Na}_{(aq)}^{1+} + \text{Br}_{(aq)}^{1-} \to \text{AgBr}_{(s)} + \text{Na}_{(aq)}^{1+} + \text{NO}_{3(aq)}^{1-}$
