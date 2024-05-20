@@ -17,10 +17,10 @@ export default defineConfig({
 			title: 'Chemistry Stoody Guide',
             customCss: [
                 './src/styles/inline.css',
-            ]
+            ],
 			social: {
 				github: 'https://github.com/ethqnol/',
-                github: 'https://github.com/comshc',
+                github: 'https://github.com/comshc/',
 			},
 			sidebar: [
 				{
