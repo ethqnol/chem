@@ -46,3 +46,17 @@ Here's an activity series of the metals:
 | Ag     |                                                               |
 | Pt     |                                                               |
 | Au     |                                                               |
+
+For a single displacement reaction, a given metal is capable of replacing a
+metal that is below it in the activity series. This can be used to predict the
+thermodynamic favorability of reactions.
+
+Imagine small pieces if cobalt were placed into two separate aqueous solutions:
+one of iron (Ⅲ) nitrate, and one of lead (Ⅱ) nitrate. By consulting the
+activity series, we see that iron is above and lead is below cobalt. Therefore,
+the cobalt metal with be capable of replacing the lead in a reaction, but not
+the iron:
+
+$Co_{(s)} + Pb\left(NO_3\right)_{2(aq)} \to Ni\left(NO_3\right)_{2(aq)} + Pb_{(s)}$
+
+$Ni_{(s)} + Fe\left(NO_3\right)_{2(aq)} \nrightarrow Ni\left(NO_3\right)_{2(aq)} + Fe_{(2)}$
