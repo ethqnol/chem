@@ -34,3 +34,13 @@ description: Describe and explain the evidence that led to Rutherford's nuclear 
 -------------------
 #### Rutherford Gold Foil Diagram
 ![Gold Foil Experiment](../../../assets/goldfoil.jpg)
+
+
+### Mosley's Law
+
+Mosley shoots a bunch of elements with cathode rays, causing an emission of X-rays. He found that graphing the square root of X-ray frequency to some very specific integer *N* would make a linear relationship on the graph.
+
+- This integer *N* is the atomic number of the element.
+- This law helped to reorganize the periodic table by atomic number, not atomic mass.
+- Elements in solid samples were able to be identified by their X-ray frequencies.
+- Helped discover elements 43, 61, 72, 75, 85, and 87.
