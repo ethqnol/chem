@@ -54,6 +54,6 @@ activity series, we see that iron is above and lead is below cobalt. Therefore,
 the cobalt metal with be capable of replacing the lead in a reaction, but not
 the iron:
 
-$Co_{(s)} + Pb\left(NO_3\right)_{2(aq)} \to Co\left(NO_3\right)_{2(aq)} + Pb_{(s)}$
+$\text{Co}_{(s)} + \text{Pb}\left(\text{NO}_3\right)_{2(aq)} \to \text{Co}\left(\text{NO}_3\right)_{2(aq)} + \text{Pb}_{(s)}$
 
 $Co{(s)} + Fe\left(NO_3\right)_{2(aq)} \to \text{NR}$
