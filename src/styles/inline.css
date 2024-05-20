@@ -1,3 +1,8 @@
 .MathJax svg {
     display: inline !important;
 }
+
+.MathJax + .MathJax + .MathJax {
+    display: flex !important;;
+    justify-content: center !important;;
+}
