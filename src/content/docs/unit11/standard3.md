@@ -5,18 +5,18 @@ title: Single Displacement Reactions
 1. Predict the products and thermodynamic favorability of single displacement
    reactions and relate experimental data to an activity series.
 
-# Single Displacement Reactions
+## Single Displacement Reactions
 
 Redox reaction in which an ion in solution is displaced via the oxidation of a
 metallic element. E.g.:
 
-> $\text{Zn}_{(s)} + 2\text{HCl}_{(aq)} \to \text{ZnCl}_{2(aq)} + \text{H}_{2(g)}$
+$\text{Zn}_{(s)} + 2\text{HCl}_{(aq)} \to \text{ZnCl}_{2(aq)} + \text{H}_{2(g)}$
 
 Metals may also be oxidized by solutions of other salts, e.g.:
 
-> $\text{Cu}_{(s)} + 2\text{AgNO}_{3(aq)} \to \text{Cu}\left(\text{NO}_3\right)_{2(aq)} + 2\text{Ag}_{(s)}$
+$\text{Cu}_{(s)} + 2\text{AgNO}_{3(aq)} \to \text{Cu}\left(\text{NO}_3\right)_{2(aq)} + 2\text{Ag}_{(s)}$
 
-# Activity Series
+## Activity Series
 
 Here's an activity series of the metals:
 
@@ -54,7 +54,7 @@ activity series, we see that iron is above and lead is below cobalt. Therefore,
 the cobalt metal with be capable of replacing the lead in a reaction, but not
 the iron:
 
-> $\text{Co}_{(s)} + \text{Pb}\left(\text{NO}_3\right)_{2(aq)} \to \text{Co}\left(\text{NO}_3\right)_{2(aq)} + \text{Pb}_{(s)}$
+$\text{Co}_{(s)} + \text{Pb}\left(\text{NO}_3\right)_{2(aq)} \to \text{Co}\left(\text{NO}_3\right)_{2(aq)} + \text{Pb}_{(s)}$
 
-> $\text{Co}{(s)} + \text{Fe}\left(\text{NO}_3\right)_{2(aq)} \to \text{NR}$
+$\text{Co}{(s)} + \text{Fe}\left(\text{NO}_3\right)_{2(aq)} \to \text{NR}$
 
