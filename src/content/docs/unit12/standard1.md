@@ -3,7 +3,7 @@ title: Lewis Structures
 description: Represent a molecule or ion with a Lewis structure. Make predictions of relative BDEs from Valence Bond Theory.
 ---
 
-(1) Represent a molecule or ion with a Lewis structure. Make predictions of relative BDEs from Valence Bond Theory.
+1. Represent a molecule or ion with a Lewis structure. Make predictions of relative BDEs from Valence Bond Theory.
 
 ## What Is A Lewis Structure?
 

@@ -3,7 +3,7 @@ title: Thomson Model
 description: Describe J. J. Thomson's Plum Pudding Model and the experimental evidence that led him to propose it.
 ---
 
-(1) Describe J. J. Thomson's Plum Pudding Model and the experimental evidence that led him to propose it.
+1. Describe J. J. Thomson's Plum Pudding Model and the experimental evidence that led him to propose it.
 
 ## Cathode Ray Experiment
 

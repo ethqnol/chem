@@ -3,7 +3,7 @@ title: Dipole Forces and Electronegativity
 description: Explain how electronegativity is defined and make predictions about polarity, BDEs, and periodic trends in electronegativity.
 ---
 
-(1) Explain how electronegativity is defined and make predictions about polarity, BDEs, and periodic trends in electronegativity.
+1. Explain how electronegativity is defined and make predictions about polarity, BDEs, and periodic trends in electronegativity.
 
 ## Dipole Forces
 

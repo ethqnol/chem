@@ -2,9 +2,9 @@
 title: Measurement & SF
 description: Record measurements with the correct number of significant figures and identify SF in a measurement.
 ---
-(1) Record measurements from scaled instruments to the correct number of significant figures
+1.Record measurements from scaled instruments to the correct number of significant figures
 
-(2) Identify the number of significant figures in a measurement. 
+2.Identify the number of significant figures in a measurement. 
 
 ## Recording Measurements
 

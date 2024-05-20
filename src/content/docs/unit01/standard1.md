@@ -2,11 +2,11 @@
 title: Accuracy & Precision
 description: Learn to calculate the percentage error of a result, define and distinguish between ""accuracy"" and ""precision"", and characterize the accuracy and precision of experimental results.
 ---
-(1) Calculate the percentage error of a result
+1. Calculate the percentage error of a result
 
-(2) Define and distinguish between "accuracy" and "precision"
+2. Define and distinguish between "accuracy" and "precision"
 
-(3) Characterize the accuracy and precision of experimental results
+3. Characterize the accuracy and precision of experimental results
 
 
 ## Accuracy 

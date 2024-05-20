@@ -20,7 +20,6 @@ export default defineConfig({
             ],
 			social: {
 				github: 'https://github.com/ethqnol/',
-                email: 'mailto:jsignorovitch@commschool.org',
 			},
 			sidebar: [
 				{

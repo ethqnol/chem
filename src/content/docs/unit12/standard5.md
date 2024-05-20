@@ -3,7 +3,7 @@ title: Hydrogen Bonding
 description: Identify molecular substances that can exhibit hydrogen bonding as pure substances or in a mixture.
 ---
 
-(1) Identify molecular substances that can exhibit hydrogen bonding as pure substances or in a mixture.
+1. Identify molecular substances that can exhibit hydrogen bonding as pure substances or in a mixture.
 
 ## Hydrogen Bonding
 

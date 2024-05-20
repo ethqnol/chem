@@ -3,7 +3,7 @@ title: Propogation of Error
 description: Calculations with SF
 ---
 
-(1) Use rules for adding/subtracting and multiplying/dividing with significant figures.
+1. Use rules for adding/subtracting and multiplying/dividing with significant figures.
 
 
 ## Addition/Subtraction

@@ -2,6 +2,7 @@
 title: VSEPR Theory
 description: Write the full and net ionic equations for a reaction and identify spectator ions.
 ---
+1.  Write the full and net ionic equations for a reaction and identify spectator ions.
 
 ## VSEPR
 

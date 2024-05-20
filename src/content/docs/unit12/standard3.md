@@ -3,7 +3,7 @@ title: London Dispersion Forces
 description: Write the full and net ionic equations for a reaction and identify spectator ions.
 ---
 
-(1) Describe the origin of London Dispersion Forces
+1. Describe the origin of London Dispersion Forces
 
 ## What The Hell Even IS IMF?
 

@@ -3,7 +3,7 @@ title: Rutherford Model
 description: Describe and explain the evidence that led to Rutherford's nuclear model of the atom, as well as the discovery of protons and neutrons.
 ---
     
-(1) Describe and explain the evidence that led to Rutherford's nuclear model of the atom, as well as the discovery of protons and neutrons.
+1. Describe and explain the evidence that led to Rutherford's nuclear model of the atom, as well as the discovery of protons and neutrons.
 
 ## Rutherford's Gold Foil Experiment
 

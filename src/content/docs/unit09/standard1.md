@@ -3,7 +3,7 @@ title: Coulomb's Law
 description: Reason qualitatively about the strength of the electrostatic force between charged and/or neutral objects.
 ---
     
-(1) Reason qualitatively about the strength of the electrostatic force between charged and/or neutral objects.
+1. Reason qualitatively about the strength of the electrostatic force between charged and/or neutral objects.
 
 ## Coulomb's Law
 
