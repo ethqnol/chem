@@ -35,6 +35,15 @@ export default defineConfig({
 					],
 					
 				},
+				
+				{
+					label: 'Unit 8',
+					items: [
+						{ label: '8.01 Structural Isomers & Formulas', link: '/unit08/standard1/' },
+						{ label: '8.02 Sterioisomerism', link: '/unit08/standard2/' },
+					
+					],
+				},
 				{
 					label: 'Unit 9',
 					items: [
