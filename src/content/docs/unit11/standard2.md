@@ -1,7 +1,6 @@
 ---
 title: Reaction Types
-description: Classify reactions by the underlying changes occurring, such as
-election transfer or proton transfer.
+description: Classify reactions by the underlying changes occurring, such as election transfer or proton transfer.
 ---
 
 1. Classify reactions by the underlying changes occurring, such as election
