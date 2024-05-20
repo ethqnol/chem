@@ -28,7 +28,7 @@ get the following 4 ions:
 
 $\text{Ag}^{1+}_{(aq)} + \text{NO}_{3(aq)}^{1-} + \text{Na}_{(aq)}^{1+} + \text{Br}_{(aq)}^{1-}$
 
-Imagine this reacts to form some kinda *crust*, e.g. $\text{AgBr_{(s)}}$. The *full
+Imagine this reacts to form some kinda *crust*, e.g. $\text{AgBr}_{(s)}$. The *full
 ionic equation*'d look like this:
 
 $\text{Ag}^{1+}_{(aq)} + \text{NO}_{3(aq)}^{1-} + \text{Na}_{(aq)}^{1+} + \text{Br}_{(aq)}^{1-} \to \text{AgBr}_{(s)} + \text{Na}_{(aq)}^{1+} + \text{NO}_{3(aq)}^{1-}$
