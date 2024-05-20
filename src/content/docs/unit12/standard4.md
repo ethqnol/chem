@@ -11,7 +11,7 @@ description: Explain how electronegativity is defined and make predictions about
 - Uneven sharing gives one side of the molecule a partial positive charge (δ+) and the other side a partially negative charge (δ-)
 - In general, dipole-dipole is stronger than LDF, and therefore, would have higher boiling or melting points than particles binded with LDF.
 
-<img alt="LDF" src="/src/assets/dipoledipole.jpg" style="width:99vw;"/>
+![Dipole-Dipole](../../../assets/dipoledipole.jpg)
 
 ## Electronegativity
 
@@ -28,4 +28,4 @@ More generally, just use a periodic table that contains each of the electronegat
 ## Dipole Moment
 We can compute the dipole moment by comparing all the electronegativities of the atoms with the core atom, and seeing about what direction of the resulting vector is. A larger dipole moment generally means the molecule is more polarized, and has larger BP or MP.
 
-<img alt="LDF" src="/src/assets/dipolemoment.png" style="width:99vw;"/>
+![LDF](../../../assets/LDF.png)

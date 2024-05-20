@@ -22,18 +22,38 @@ export default defineConfig({
 				{
 					label: 'Unit 1',
 					items: [
-						{ label: '1.01 Accuracy & Precision', link: '/unit1/standard1/' },
-						{ label: '1.02 Measurement & SF', link: '/unit1/standard2/' },
-						{ label: '1.03 Propagation of Error', link: '/unit1/standard3/' },
-						{ label: '1.04 Scientific Notation', link: '/unit1/standard4/' },
-						{ label: '1.05 Dimensional Analysis & SI Units', link: '/unit1/standard5/' },
-						{ label: '1.06 Nature of Science', link: '/unit1/standard6/' },
-						{ label: '1.07 Basic Properties of Matter', link: '/unit1/standard7/' },
-						{ label: '1.08 Basic Particle Model', link: '/unit1/standard8/' },
-						{ label: '1.09 [Advanced] Lattice Structures', link: '/unit1/standard9/' },
+						{ label: '1.01 Accuracy & Precision', link: '/unit01/standard1/' },
+						{ label: '1.02 Measurement & SF', link: '/unit01/standard2/' },
+						{ label: '1.03 Propagation of Error', link: '/unit01/standard3/' },
+						{ label: '1.04 Scientific Notation', link: '/unit01/standard4/' },
+						{ label: '1.05 Dimensional Analysis & SI Units', link: '/unit01/standard5/' },
+						{ label: '1.06 Nature of Science', link: '/unit01/standard6/' },
+						{ label: '1.07 Basic Properties of Matter', link: '/unit01/standard7/' },
+						{ label: '1.08 Basic Particle Model', link: '/unit01/standard8/' },
+						{ label: '1.09 [Advanced] Lattice Structures', link: '/unit01/standard9/' },
 						
 					],
 					
+				},
+				{
+					label: 'Unit 9',
+					items: [
+						{ label: '9.01 Coulomb\'s Law', link: '/unit09/standard1/' },
+						{ label: '9.02 Thomson Model', link: '/unit09/standard2/' },
+						{ label: '9.03 Rutherford Model', link: '/unit09/standard3/' },
+						{ label: '9.04 Nuclear Processes', link: '/unit09/standard4/' },
+						{ label: '9.03 Mass Spectrometry', link: '/unit09/standard5/' },
+					
+					],
+				},
+				{
+					label: 'Unit 10',
+					items: [
+						{ label: '10.01 Photoelectric Effect', link: '/unit10/standard1/' },
+						{ label: '10.02 Bohr\'s Model', link: '/unit10/standard2/' },
+						{ label: '10.03 Shell Model & Quantum Mechanics', link: '/unit10/standard3/' },
+					
+					],
 				},
 				{
 					label: 'Unit 11',
