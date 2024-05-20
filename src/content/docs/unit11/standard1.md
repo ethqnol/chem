@@ -13,7 +13,7 @@ Ionic equations are those where the formulas of the dissolved aqueous solutions
 
 So, for some silver bromide dissolved in water, it'd be:
 
-$<center>\text{Ag}^{1+}_{(aq)} + \text{Br}^{1-}_{(aq)}</center>$
+$$\text{Ag}^{1+}_{(aq)} + \text{Br}^{1-}_{(aq)}$$
 
 With the *molecular equation*:
 
