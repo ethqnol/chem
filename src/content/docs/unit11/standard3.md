@@ -28,19 +28,16 @@ Here's an activity series of the metals:
 | Sr     |                                                               |
 | Ca     |                                                               |
 | Na     |                                                               |
-|--------|---------------------------------------------------------------|
 | Mg     | React with steam, but not cold water, replacing hydrogen      |
 | Al     |                                                               |
 | Zn     |                                                               |
 | Cr     |                                                               |
 | Fe     |                                                               |
 | Cd     |                                                               |
-|--------|---------------------------------------------------------------|
 | Co     | Do not react with water. React with acids, replacing hydrogen |
 | Ni     |                                                               |
 | Sn     |                                                               |
 | Pb     |                                                               |
-|--------|---------------------------------------------------------------|
 | Cu     | Unreactive                                                    |
 | Hg     |                                                               |
 | Ag     |                                                               |
