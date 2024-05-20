@@ -2,7 +2,7 @@
     display: inline !important;
 }
 
-.MathJax + .MathJax {
+.MathJax > svg:empty + .MathJax {
     display: flex !important;;
     justify-content: center !important;;
 }
