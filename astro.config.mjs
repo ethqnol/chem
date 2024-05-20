@@ -58,7 +58,7 @@ export default defineConfig({
 				{
 					label: 'Unit 11',
 					items: [
-						{ label: '11.01 Ionic Equations & Enthalpy Cycles', link: '/unit11/standard1/' },
+						{ label: '11.01 Ionic Equations', link: '/unit11/standard1/' },
 						{ label: '11.02 Reaction Types', link: '/unit11/standard2/' },
 						{ label: '11.03 Single Displacement Reactions', link: '/unit11/standard3/' },
 						{ label: '11.04 Voltaic & Electrolytic Cells', link: '/unit11/standard4/' },
