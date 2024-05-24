@@ -40,6 +40,18 @@ export default defineConfig({
 				},
 				
 				{
+					label: 'Unit 5',
+					items: [
+						{ label: '5.01 Moles', link: '/unit05/standard1/' },
+						{ label: '5.02 Ideal Gas Law', link: '/unit05/standard2/' },
+						{ label: '5.03 Empirical & Molecular Formulas', link: '/unit05/standard3/' },
+						{ label: '5.04 Molarity', link: '/unit05/standard4/' },
+						{ label: '5.05 Stoichiometry', link: '/unit05/standard5/' },
+					
+					],
+				},
+				
+				{
 					label: 'Unit 8',
 					items: [
 						{ label: '8.01 Structural Isomers & Formulas', link: '/unit08/standard1/' },
@@ -54,7 +66,7 @@ export default defineConfig({
 						{ label: '9.02 Thomson Model', link: '/unit09/standard2/' },
 						{ label: '9.03 Rutherford Model', link: '/unit09/standard3/' },
 						{ label: '9.04 Nuclear Processes', link: '/unit09/standard4/' },
-						{ label: '9.03 Mass Spectrometry', link: '/unit09/standard5/' },
+						{ label: '9.05 Mass Spectrometry', link: '/unit09/standard5/' },
 					
 					],
 				},
