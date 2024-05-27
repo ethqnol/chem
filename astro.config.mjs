@@ -51,6 +51,18 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Unit 6',
+					items: [
+						{ label: '6.01 Reaction Profiles', link: '/unit06/standard1/' },
+						{ label: '6.02 Energy Stoichiometry', link: '/unit06/standard2/' },
+						{ label: '6.03 Hess\'s Law', link: '/unit06/standard3/' },
+						{ label: '6.04 Entropy & Thermodynamic Favorability', link: '/unit06/standard4/' },
+						{ label: '6.05 Collision Theory', link: '/unit06/standard5/' },
+						{ label: '6.06 Reaction Rates', link: '/unit06/standard6/' },
+					
+					],
+				},
+				{
 					label: 'Unit 7',
 					items: [
 						{ label: '7.01 Element Properties & Groups', link: '/unit07/standard1/' },

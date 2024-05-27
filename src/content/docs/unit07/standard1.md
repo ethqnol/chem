@@ -26,30 +26,30 @@ description:  Identify and describe qualitative and quantitative properties of e
 
 ## Classification of Elements
 
-** Group 1: Alkali Metals** 
+**Group 1: Alkali Metals** 
 - Soft, shiny, low melting points
 - React violently with water
 - Form +1 ions
 - Largest atomic radius
 
-** Group 2: Alkaline Earth Metals**
+**Group 2: Alkaline Earth Metals**
 - Harder, denser, and stronger than alkali metals
 - Form +2 ions
 - High melting points and boiling points
 
-** Group 3-12: Transition Metals**
+**Group 3-12: Transition Metals**
 - Good conductors of heat and electricity
 
-** Group 13-16: Other Metals**
+**Group 13-16: Other Metals**
 - Metalloilds: B, Si, Ge, As, Sb, Te (Above the staircase)
 - Anything above the metalliods are non-metals
 - Anything below the metalliods are metals
 
-** Group 17: Halogens**
+**Group 17: Halogens**
 - Highly reactive non-metals
 - Form -1 ions
 - High electronegativity
 
-** Group 18: Noble Gases**
+**Group 18: Noble Gases**
 - Do not react with other elements
 
