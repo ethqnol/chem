@@ -50,7 +50,18 @@ export default defineConfig({
 					
 					],
 				},
-				
+				{
+					label: 'Unit 7',
+					items: [
+						{ label: '7.01 Element Properties & Groups', link: '/unit07/standard1/' },
+						{ label: '7.02 Valency & Nomenclature', link: '/unit07/standard2/' },
+						{ label: '7.03 Mendeleev\'s Table', link: '/unit07/standard3/' },
+						{ label: '7.04 Reaction Types', link: '/unit07/standard4/' },
+						{ label: '7.05 Activity Series', link: '/unit07/standard5/' },
+						{ label: '7.06 Precipitates', link: '/unit07/standard6/' },
+					
+					],
+				},
 				{
 					label: 'Unit 8',
 					items: [
