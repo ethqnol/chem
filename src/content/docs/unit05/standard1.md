@@ -6,7 +6,7 @@ description: Convert between mass and moles of a sample & Distinguish and conver
 2. Distinguish and convert between moles of atoms and molecules
 
 ## Converting Between Mass and Moles
-**Moles:** An arbitrary number of atoms ($$6.022 \times 10^23$$) to help measurement’s / equations.
+**Moles:** An arbitrary number of atoms ($$6.022 \times 10^{23}$$) to help measurement’s / equations.
 
 - Mass of one mole of a given element is the atomic mass number in grams
 - Molar mass has the unit g/mol

@@ -25,6 +25,10 @@ R = ideal gas constant (0.0821 L atm / mol K)
 
 If the conditions are not ideal, meaning the gas is not at 100kPa, 1 mol, **and** 273.15K, then the volume of the gas will be different, and the formula $$ PV = nRT $$ can be used.
 
+:::caution 
+The ideal gas law applies **if and only if** _all_ of the following conditions are met: 100 kPa, 1 mole, 273.15 K.
+:::
+
 ## [Advanced] Partial Pressure
 
 **Partial Pressure:** The pressure of a gas in a mixture of gases. The total pressure of a gas mixture is the sum of the partial pressures of the individual gases.
