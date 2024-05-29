@@ -5,7 +5,7 @@ title: Collision Theory
 In order for some particles to interact, they must *collide*; thus, by
 increasing the number of collisions, we can increase the rate of the reaction:
 
-$\text{rate} \propto \cfrac{\text{# collisions}}{\text{time}}$
+$\text{rate} \propto \cfrac{\text{\# collisions}}{\text{time}}$
 
 This explains the dependence of a reaction rate on concentration; if there are
 fewer particles, there are fewer collisions and thus fewer reactions. This also
