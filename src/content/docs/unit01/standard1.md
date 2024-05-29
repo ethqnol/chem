@@ -41,7 +41,7 @@ Fortunately, repeating an experiment many times essentially eliminates random er
 
 Precision can be measured with **relative precision** which is computed as follows:
 
-$$ rel\_precision = \frac{precision}{value_{experimental}} $$
+$$ rel\_precision = \dfrac{precision}{value_{experimental}} $$
 
 **Absolute Margin of Error (MoE):** The range of possible values.
 
