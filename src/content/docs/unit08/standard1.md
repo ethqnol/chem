@@ -16,6 +16,10 @@ Classic letters & lines.
 
 Molecular formula: $\text{H}_2\text{O}$
 
+![](../../../assets/octane-struc.png)
+
+Molecular formula: $\text{C}_8\text{H}_{18}$ (octane)
+
 Doesn't show true shape, only bonds between atoms.
 
 ### Line Formula
@@ -25,11 +29,11 @@ $\text{H}$s.
 
 ![](../../../assets/octane.png)
 
-Molecular formula: $\text{C}_8\text{H}_18$
+Molecular formula: $\text{C}_8\text{H}_{18}$ (octane)
 
 ### Skeletal Formula
 
-## The Hell is an Isomer
+## Isomers
 
 Isomers are molecules with the same molecular formula, but different
 structures. There are two categories of isomers:
@@ -43,3 +47,5 @@ molecular formula), but the atoms are *connected* in different ways.
 
 A stereoisomer has the same atoms connected in the same way, but in a different
 shape.
+
+## Identifying the (Structural) Isomers of a Molecular Formula
