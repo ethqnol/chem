@@ -6,7 +6,7 @@ description: Convert between structural, line, and skeletal formulas. Predict po
 1. Convert between structural, line, and skeletal formulas.
 2. Predict possible structural isomers associated with a molecular formula.
 
-## Converting Between Formulas
+## The Different Formulas
 
 ### Structural Formula
 
@@ -33,7 +33,8 @@ information about the structure.
 
 **Formulae for octane:**
 
-Line: $CH_3\left(CH_2\right)_6CH_3$
+Line: $\text{CH}_3\left(\text{CH}_2\right)_6\text{CH}_3$
+
 Molecular: $\text{C}_8\text{H}_{18}$
 
 ### Skeletal Formula
@@ -64,3 +65,5 @@ A stereoisomer has the same atoms connected in the same way, but in a different
 shape.
 
 ## Identifying the (Structural) Isomers of a Molecular Formula
+
+
