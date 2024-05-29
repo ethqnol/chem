@@ -16,7 +16,7 @@ Here, there'd be the `half reactions`:
 
 $\text{Cu}^{2+}_{(aq)} + 2e^- \to \text{Cu}_{(s)}$
 
-$\text{Zn}{(s)} \to \text{Zn}^{2+}_{(aq)} + 2e^-$
+$\text{Zn}_{(s)} \to \text{Zn}^{2+}_{(aq)} + 2e^-$
 
 And the net reaction:
 
