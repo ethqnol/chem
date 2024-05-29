@@ -18,7 +18,7 @@ description: Learn to calculate the percentage error of a result, define and dis
 
 Accuracy can also be measured using percentage error (relative error), which is computed like so:
 
-**$$ error = \frac{value_{experimental} - value_{literature}}{value_{literature}} * 100\% $$**
+**$$ error = \cfrac{value_{experimental} - value_{literature}}{value_{literature}} * 100\% $$**
 
 :::danger
 Remember to include the sign for **both** absolute error **and** percentage error. A positive percentage error implies that the experimental value was larger, while a negative percentage error implies the experimental value was smaller.
