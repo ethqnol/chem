@@ -10,28 +10,43 @@ description: Convert between structural, line, and skeletal formulas. Predict po
 
 ### Structural Formula
 
-Classic letters & lines.
+Classic letters & lines. Doesn't show true shape, only bonds between atoms.
 
+**Formulae for water:**
+
+Molecular: $\text{H}_2\text{O}$
+
+Structural:
 ![](../../../assets/h2o.png)
 
-Molecular formula: $\text{H}_2\text{O}$
+**Formulae for octane:**
 
+Structural:
 ![](../../../assets/octane-struc.png)
 
-Molecular formula: $\text{C}_8\text{H}_{18}$ (octane)
-
-Doesn't show true shape, only bonds between atoms.
+Molecular: $\text{C}_8\text{H}_{18}$ (octane)
 
 ### Line Formula
+
+**Does not involve lines**. Basically a molecular formula, but gives more
+information about the structure.
+
+**Formulae for octane:**
+
+Line: $CH_3\left(CH_2\right)_6CH_3$
+Molecular: $\text{C}_8\text{H}_{18}$
+
+### Skeletal Formula
 
 Used specifically for organic chemistry; removes the clutter of $\text{C}$s and
 $\text{H}$s.
 
+**Formulae for octane:**
+
+Skeletal:
 ![](../../../assets/octane.png)
 
-Molecular formula: $\text{C}_8\text{H}_{18}$ (octane)
-
-### Skeletal Formula
+Molecular: $\text{C}_8\text{H}_{18}$
 
 ## Isomers
 
