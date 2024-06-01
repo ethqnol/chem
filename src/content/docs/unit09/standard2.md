@@ -15,7 +15,7 @@ description: Describe J. J. Thomson's Plum Pudding Model and the experimental ev
 | Green glow is seen opposite to the cathode | Cathode rays are emitted from the cathode. |
 | Objects in the path of cathode rays experience force/increase temps | Cathode rays have mass |
 | Z/M ratio is 1000 times greater than a hydrogen atom. | Cathode rays are made of particles that have much smaller mass than atoms. |
-| Replacing the cathode with a different material changes the Z/M ratio | Cathode rays are made of particles that are all the same. |
+| Replacing the cathode with a different material doesn't change the Z/M ratio | Cathode rays are made of particles that are all the same. |
 
 ## Thomson's Plum Pudding Model
 
