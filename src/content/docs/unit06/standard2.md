@@ -12,9 +12,9 @@ Along with an equation, you will be given enthalpy of reaction ($$ \delta H_r $$
 - Enthalpy refers to all products equally.
 
 Example:
-Given: $$ N_2 + 3H_2 \rightarrow 2NH_3 \ \delta H_r = -92.2 \ kJ $$; How much energy would be transferred if 0.18 mol of ammonia was produced?
+Given: $$ \text{N}_2 + 3\text{H}_2 \rightarrow 2\text{NH}_3 \ \delta \text{H}_r = -92.2 \ kJ $$; How much energy would be transferred if 0.18 mol of ammonia was produced?
 
-$$ 0.18 \ mol \ NH_3 \times \frac{1 \ mol \ NH_3}{2 \ mol \ NH_3} \times \frac{92.2 \ kJ}{1 \ mol \ NH_3} = 8.29 \ kJ $$
+$$ 0.18 \ mol \ \text{NH}_3 \times \cfrac{1 \ mol \ \text{NH}_3}{2 \ mol \ \text{NH}_3} \times \cfrac{92.2 \ kJ}{1 \ mol \ \text{NH}_3} = 8.29 \ kJ $$
 
 :::note
 When discussing amount of energy transferred, the sign is irrelevant, so it is positive (in that vien, we cut off the sign on 92.2 kJ, so that it is positive, because whether or not it is endothermic or exothermic doesn't change how much energy is **transferred**).
