@@ -6,13 +6,13 @@ title: Energy Stoichiometry
 
 ## Energy Stoichiometry
 
-Along with an equation, you will be given enthalpy of reaction ($$ \delta H_r $$). Note the following:
+Along with an equation, you will be given enthalpy of reaction ($$ \Delta H_r $$). Note the following:
 - A negative enthalpy indicates an exothermic reaction.
 - A positive enthalpy indicates an endothermic reaction.
 - Enthalpy refers to all products equally.
 
 Example:
-Given: $$ \text{N}_2 + 3\text{H}_2 \rightarrow 2\text{NH}_3 \ \delta \text{H}_r = -92.2 \ kJ $$; How much energy would be transferred if 0.18 mol of ammonia was produced?
+Given: $$ \text{N}_2 + 3\text{H}_2 \rightarrow 2\text{NH}_3 \ \Delta \text{H}_r = -92.2 \ kJ $$; How much energy would be transferred if 0.18 mol of ammonia was produced?
 
 $$ 0.18 \ mol \ \text{NH}_3 \times \cfrac{1 \ mol \ \text{NH}_3}{2 \ mol \ \text{NH}_3} \times \cfrac{92.2 \ kJ}{1 \ mol \ \text{NH}_3} = 8.29 \ kJ $$
 

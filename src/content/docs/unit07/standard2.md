@@ -10,7 +10,7 @@ description: Identify the most common valency of an element and memorize the val
 
 ## Valency
 - All elements have a valency (# of bonds they can make)
-- Groups 1, 2, 13, 14, 15, 16, and 17 have fixed valencies of 4, with 14 having a valency of 4 and decreasing consecutively as you move away from 14 from left to right.
+- Groups 1, 2, 13, 14, 15, 16, and 17 have fixed valencies, with 14 having a valency of 4 and decreasing consecutively as you move away from 14 from left to right.
 - Al, Zn, and Ag have valencies of 3, 2, and 1, respectively.
 - All other metals have variable valency, so the nonmetal associated with the metal is used to determine the valency.
 

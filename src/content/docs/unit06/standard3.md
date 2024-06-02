@@ -10,10 +10,10 @@ description: Define and write the equations corresponding to the enthalpy of for
 ## Defining/Writing Enthalpy Equations
 
 **Definitions:**
-- Enthalpy of atomization ($$ \delta H_a$$): The enthalpy change when one mole of gaseous atoms is formed from the element in its standard state.
-- Enthalpy of combustion ($$ \delta H_c$$): The enthalpy change when one mole of a substance is burned completely in oxygen to form $$CO_2$$ and $$H_2O$$.
-- Enthalpy of formation ($$ \delta H_f$$): The enthalpy change when one mole of a compound is formed from its elements in their standard states.
-- Enthalpy of solution ($$ \delta H_s$$): The enthalpy change when one mole of a substance is dissolved in a large volume of solvent.
+- Enthalpy of atomization ($$ \delta H_a $$): The enthalpy change when one mole of gaseous atoms is formed from the element in its standard state.
+- Enthalpy of combustion ($$ \delta H_c $$): The enthalpy change when one mole of a substance is burned completely in oxygen to form $$CO_2$$ and $$H_2O$$.
+- Enthalpy of formation ($$ \delta H_f $$): The enthalpy change when one mole of a compound is formed from its elements in their standard states.
+- Enthalpy of solution ($$ \delta H_s $$): The enthalpy change when one mole of a substance is dissolved in a large volume of solvent.
 
 ## Hess's Law
 
@@ -31,11 +31,11 @@ description: Define and write the equations corresponding to the enthalpy of for
 Determine the enthalpy of reaction of:
 $$C_{2}H_{4} (g) + HBR (g) => C_{2}H_{5}Br (l)$$
 
-| $$ \delta H_{f} | kJ/mol|
+| $$ \delta H_{f} $$| kJ/mol|
 |--|--|
-| $$C_{2}H_{4} (g) | +52.0 |
-| $$HBr (g) | -36.3|
-| $$C_{2}H_{5}Br (l) | -90.0|
+| $$C_{2}H_{4} (g) $$| +52.0 |
+| $$HBr (g) | -36.3 $$|
+| $$C_{2}H_{5}Br (l) $$| -90.0|
 
 
 We can draw a quick diagram:

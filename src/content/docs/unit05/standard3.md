@@ -10,7 +10,7 @@ description: Convert between composition by mass and the empirical formula of a 
 ## Convert Between Composition By Mass and Empirical Formula
 
 1. Composition by mass: compute percentage composition based on ratios of AMU values of each element
-2. Empirical formula: find how many moles of each element there are; ratios convert to simplest formula (e.g. C_{2}H_{8}O to CH_{4})
+2. Empirical formula: find how many moles of each element there are; ratios convert to simplest formula (e.g. $$C_{2}H_{8}O to CH_{4}$$)
 3. If given percentages, assume weight to be any number (probably 100g) to find moles.
 
 ## Determining Molecular Formula (Given Empirical Formula)
